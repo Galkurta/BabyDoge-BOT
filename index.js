@@ -53,7 +53,7 @@ class Pocketfi {
                 }
             }
         }
-        throw new Error('Không thể kết nối sau 3 lần thử');
+        throw new Error('Unable to connect after 3 attempts');
     }
 
     log(msg) {
