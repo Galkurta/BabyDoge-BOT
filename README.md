@@ -59,7 +59,7 @@ Once started, the bot will automatically perform the following actions for each 
 - Upgrade existing cards (if enabled)
 - Tap (mine) until energy is depleted
 
-You can customize the bot's behavior by modifying the `index.js` file.
+You can customize the bot's behavior by modifying the `main.js` file.
 
 ## ⚠️ Disclaimer
 
