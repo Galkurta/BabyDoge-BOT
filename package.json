@@ -1,7 +1,17 @@
 {
-    "dependencies": {
-      "axios": "^1.7.2",
-      "colors": "^1.4.0"
-    }
+  "name": "babydoge-bot",
+  "version": "1.0.0",
+  "description": "## BOT FEATURE",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "colors": "^1.4.0",
+    "winston": "^3.14.2"
   }
-  
+}
