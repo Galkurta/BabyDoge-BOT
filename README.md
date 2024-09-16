@@ -46,7 +46,7 @@ Follow these steps to get your BabyDoge BOT up and running:
 
 4. **Start the bot**
    ```
-   node index.js
+   node main.js
    ```
 
 ## 📝 Usage
